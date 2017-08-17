@@ -27,6 +27,7 @@ reference: <http://www.tramvm.com/2017/05/recognize-text-from-image-with-python.
 
 * pytesseract
     ```bash
+    apt install tesseract-ocr
     pip install pytesseract
     ```
 
