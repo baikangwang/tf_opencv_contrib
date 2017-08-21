@@ -1,4 +1,8 @@
 notebooks/resources/bitwise.png
 notebooks/resources/filled.png
 notebooks/resources/result.png
+notebooks/resources/blur.png
+notebooks/resources/brightness.png
+notebooks/resources/removed_noise.png
+notebooks/resources/thres.png
 *.o
