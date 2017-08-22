@@ -1,5 +1,12 @@
-brightness.png
-filled.png
-removed_noise.png
-result.png
-thres.png
+notebooks/resources/corp_chars/
+notebooks/resources/bitwise.png
+notebooks/resources/filled.png
+notebooks/resources/result.png
+notebooks/resources/blur.png
+notebooks/resources/brightness.png
+notebooks/resources/removed_noise.png
+notebooks/resources/thres.png
+notebooks/resources/hulls.png
+notebooks/resources/linesImg.png
+*.o
+.idea/
