@@ -15,9 +15,10 @@
 ## Thinking
 
 * Low detecting rate
-  * Deeply detecting
+  * Deeply detecting  
+    ![multiple](multiple.png)
   * Change to the better detecting arithmetic
-    * SelectiveSearch
+    * SelectiveSearch  
       ![selectivesearch](selectivesearch.png)
 * Low recognization rate
   * Optimize super-parameters
