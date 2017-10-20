@@ -2,23 +2,27 @@
 
 ## Demo
 
-* Handwring Detecting
-
-* Handwring Recognization
+* Handwring Detecting  
+  ![mser](readme/mser.png)
+* Handwring Recognization  
+  ![cnn](readme/cnn.png)
 
 ## Problems
 
-* Low detecting rate
-* Low recognization rete
+* Low detecting rate - __51.026%__
+* Low recognization rete - __88.68%__
 
 ## Thinking
 
 * Low detecting rate
-  1 Deeply detecting
-  1 Change to the better detecting arithmetic
+  * Deeply detecting  
+    ![multiple](readme/multiple.png)
+  * Change to the better detecting arithmetic
+    * SelectiveSearch  
+      ![selectivesearch](readme/selectivesearch.png)
 * Low recognization rate
-  1 Optimize super-parameters
-  1 Strong the neuron network
+  * Optimize super-parameters
+  * Strong the neuron network
 
 ## Expect
 
