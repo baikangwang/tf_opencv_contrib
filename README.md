@@ -3,9 +3,9 @@
 ## Demo
 
 * Handwring Detecting  
-  ![mser](mser.png)
+  ![mser](readme/mser.png)
 * Handwring Recognization  
-  ![cnn](cnn.png)
+  ![cnn](readme/cnn.png)
 
 ## Problems
 
@@ -16,10 +16,10 @@
 
 * Low detecting rate
   * Deeply detecting  
-    ![multiple](multiple.png)
+    ![multiple](readme/multiple.png)
   * Change to the better detecting arithmetic
     * SelectiveSearch  
-      ![selectivesearch](selectivesearch.png)
+      ![selectivesearch](readme/selectivesearch.png)
 * Low recognization rate
   * Optimize super-parameters
   * Strong the neuron network
