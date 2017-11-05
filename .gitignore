@@ -1,4 +1,5 @@
 resources/corp_chars
+resources/corp_chars_org
 resources/bitwise.png
 resources/filled.png
 resources/result.png
@@ -11,3 +12,5 @@ resources/linesImg.png
 *.o
 .idea/
 .vscode/
+*.zip
+
